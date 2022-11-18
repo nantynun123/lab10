@@ -10,4 +10,5 @@ public class projectfunctions {
 		return s1+s2;
 	}
 	
+	
 }

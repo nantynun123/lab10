@@ -12,6 +12,5 @@ public class test1 {
 	      int result = project.addnumbers(200,300);
 	    	assertEquals (500, result);	  
 	}
-	
 
 }
